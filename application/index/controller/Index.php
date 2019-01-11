@@ -17,6 +17,6 @@ class Index extends Model
 
     public function hello($name = 'ThinkPHP5')
     {
-        return 'hello' . $name;
+        return '123123213' . $name;
     }
 }
