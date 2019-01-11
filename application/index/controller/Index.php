@@ -11,7 +11,7 @@ class Index extends Model
     public function index()
     {
         $bug=new _debug();
-        $bug->dump(11);
+        $bug->dump(456);
 
     }
 
