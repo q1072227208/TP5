@@ -17,10 +17,6 @@ class Index extends Model
 
     public function hello($name = 'ThinkPHP5')
     {
-<<<<<<< HEAD
-        return 'dsd' . $name;
-=======
-        return 'hello' . $name;
->>>>>>> parent of 1368df1... Update Index.php
+        return 'ds21d' . $name;
     }
 }
